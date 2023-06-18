@@ -1,3 +1,3 @@
-module https://github.com/VadimLegacy/packGo
+module github.com/VadimLegacy/packGo
 
 go 1.20
